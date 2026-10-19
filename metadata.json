@@ -1,0 +1,6 @@
+{
+  "name": "Unique Character Quest",
+  "description": "An interactive arcade puzzle game and Python capstone project centered on finding the first non-repeating character in a sequence with real-time multiplayer, game modes, and comprehensive algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
